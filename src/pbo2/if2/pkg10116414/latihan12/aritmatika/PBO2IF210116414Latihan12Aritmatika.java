@@ -11,7 +11,7 @@ package pbo2.if2.pkg10116414.latihan12.aritmatika;
  * NAMA         : FAEL ANTONI WIJAYA
  * KELAS        : PBO-2
  * NIM          : 10116414
- * Deskripsi    : Program Aritmatika
+ * Deskripsi    : Program Proses Aritmatika
  */
 public class PBO2IF210116414Latihan12Aritmatika {
     /**
