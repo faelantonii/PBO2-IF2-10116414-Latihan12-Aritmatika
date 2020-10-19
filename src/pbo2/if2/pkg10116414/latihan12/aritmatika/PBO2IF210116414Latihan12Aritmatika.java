@@ -14,7 +14,6 @@ package pbo2.if2.pkg10116414.latihan12.aritmatika;
  * Deskripsi    : Program Aritmatika
  */
 public class PBO2IF210116414Latihan12Aritmatika {
-
     /**
      * @param args the command line arguments
      */
